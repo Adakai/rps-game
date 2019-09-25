@@ -1,2 +1,3 @@
 # rock-paper-scissors
-HTML rock-paper-scissors game
+## Gitpages URL
+https://adakai.github.io/rps-game/
